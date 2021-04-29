@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ridhed
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently studying for my 2nd year of undergraduation in Computer Science and Engineering.
+- 💞️ I’m looking to collaborate on Data Analytics , Data Manipulation and Data pipelines .
