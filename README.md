@@ -1,4 +1,4 @@
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently in my 2nd year of undergrad 
-- 🎓 I'm enrolled in Computer Science and Engineering program .
+- 🌱 I’m currently in my 2nd year of undergrad .
+- 🎓 I'm enrolled in the Computer Science and Engineering program .
 - 👾 I’m looking to collaborate on Data Analytics , Data Manipulation and Data pipelines .
