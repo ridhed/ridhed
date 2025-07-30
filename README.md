@@ -21,9 +21,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ridhed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ridhed&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/riddhi-hedaoo-490a64221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riddhi-hedaoo/" height="30" width="40" /></a>
-</p>
