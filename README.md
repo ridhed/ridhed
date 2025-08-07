@@ -59,5 +59,10 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/riddhi-hedaoo-490a64221/)
 - 📄 [My Resume](https://drive.google.com/file/d/1j6GMvl9lKCsojc_H7yxFLBO2ljCP5dH2/view?usp=sharing)
 
-![Profile views](https://komarev.com/ghpvc/?username=ridhed&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ridhed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ridhed&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Visitor Badge"/>
+</p>
+
 
