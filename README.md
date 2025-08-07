@@ -61,8 +61,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ridhed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ridhed&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Visitor Badge"/>
 </p>
 
 
