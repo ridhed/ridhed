@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![GitHub Banner](https://github.com/user-attachments/assets/6886bdad-1982-487f-a595-d0d468f4a5e1)" alt="Riddhi Hedaoo's Cosmic Banner">
+  <img src="https://github.com/user-attachments/assets/6886bdad-1982-487f-a595-d0d468f4a5e1" alt="Riddhi Hedaoo's Cosmic Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Riddhi Jayant Hedaoo</h1>
