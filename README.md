@@ -59,8 +59,5 @@
 - 🌐 [LinkedIn](https://www.linkedin.com/in/riddhi-hedaoo-490a64221/)
 - 📄 [My Resume](https://drive.google.com/file/d/1j6GMvl9lKCsojc_H7yxFLBO2ljCP5dH2/view?usp=sharing)
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ridhed&icon=0&color=0" alt="Profile Visits" />
-  </a>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=ridhed&label=Profile%20views&color=0e75b6&style=flat)
+
