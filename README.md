@@ -18,7 +18,7 @@
 - 🔍 Exploring the universe of data through Python, Power BI, and Machine Learning
 - 🛰️ Building projects that decode patterns from chaos
 - ✨ Dreaming of AI that mirrors nature’s elegance—complex, yet coherent
-- 
+
 
 ## 🧰 Tech Stack
 
