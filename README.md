@@ -40,7 +40,7 @@
 &emsp;📊 Cleaned and transformed real-world vehicle sales data
 
 🔹 [Credit Card Approval Prediction](https://github.com/ridhed/Credit-Card-Approval-Prediction)  
-&emsp;🧠 Feature Engineering + Machine Learning pipeline  
+&emsp;🧠 Feature Engineering + Machine Learning model
 &emsp;📉 Reduced outliers, engineered predictors for better accuracy
 
 
