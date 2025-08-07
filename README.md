@@ -11,12 +11,14 @@
   </em>
 </p>
 
+
 ## 🌠 About Me
 
 - 🎓 M.Tech in Computer Science | Certified Data Science Professional
 - 🔍 Exploring the universe of data through Python, Power BI, and Machine Learning
 - 🛰️ Building projects that decode patterns from chaos
 - ✨ Dreaming of AI that mirrors nature’s elegance—complex, yet coherent
+- 
 
 ## 🧰 Tech Stack
 
@@ -30,6 +32,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
+
 ## 📂 Featured Projects
 
 🔹 [Axon Classic Vehicles Dashboard](https://github.com/ridhed/Axon-Sales-Dashboard-)  
@@ -40,6 +43,7 @@
 &emsp;🧠 Feature Engineering + Machine Learning pipeline  
 &emsp;📉 Reduced outliers, engineered predictors for better accuracy
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -48,7 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhed&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
----
 
 ## 📫 Reach Out
 
